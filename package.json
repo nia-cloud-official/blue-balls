@@ -1,0 +1,19 @@
+{
+  "name": "blue-balls",
+  "version": "1.1.0",
+  "description": "An npm package for integrating Bluetooth into Node.js apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bluetooth",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Milton Vafana",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
